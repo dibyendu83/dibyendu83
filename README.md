@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dibyendu83&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
   <br>
-  <a href="https://linkedin.com/in/dibyendurakshit"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin"></a>
-  <a href="https://medium.com/@dibyendu.rakshit"><img src="https://img.shields.io/badge/Medium-Read%20My%20Articles-black?style=flat&logo=medium"></a>
-  <a href="https://www.financialfreedomjourneys.com"><img src="https://img.shields.io/badge/Blog-Financial%20Freedom%20Journey-green?style=flat&logo=blogger"></a>
+  <a href="https://linkedin.com/in/dibyendurakshit" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin"></a>
+  <a href="https://medium.com/@dibyendu.rakshit" target="_blank"><img src="https://img.shields.io/badge/Medium-Read%20My%20Articles-black?style=flat&logo=medium"></a>
+  <a href="https://www.financialfreedomjourneys.com" target="_blank"><img src="https://img.shields.io/badge/Blog-Financial%20Freedom%20Journey-green?style=flat&logo=blogger"></a>
 </p>
 
 ---
