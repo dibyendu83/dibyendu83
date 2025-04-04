@@ -1,123 +1,174 @@
-
-
-<!--
-**dibyendu83/dibyendu83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <!-- Dibyendu Rakshit's GitHub Profile README -->
 
-<h1 align="center">🚀 Dibyendu Rakshit</h1>
-<h3 align="center">💻 Backend Developer | ☁ Cloud Enthusiast | 📈 Tech Blogger</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&height=100&lines=Dibyendu+Rakshit;Backend+Developer;Cloud+Enthusiast;Tech+Blogger" alt="Typing SVG" />
+</div>
+
+<h3 align="center">💻 Backend Developer | ☁️ Cloud Enthusiast | 📈 Tech Blogger</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dibyendu83&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <br>
-  <a href="https://linkedin.com/in/dibyendurakshit" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin"></a>
-  <a href="https://medium.com/@dibyendu.rakshit" target="_blank"><img src="https://img.shields.io/badge/Medium-Read%20My%20Articles-black?style=flat&logo=medium"></a>
-  <a href="https://www.financialfreedomjourneys.com" target="_blank"><img src="https://img.shields.io/badge/Blog-Financial%20Freedom%20Journey-green?style=flat&logo=blogger"></a>
+  <br><br>
+  <a href="https://linkedin.com/in/dibyendurakshit" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://medium.com/@dibyendu.rakshit" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+  </a>
+  <a href="https://www.financialfreedomjourneys.com" target="_blank">
+    <img src="https://img.shields.io/badge/Blog-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Blog" />
+  </a>
+  <a href="mailto:dibyendu.rakshit@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
----
-
 ## 🚀 About Me
-- 🎯 **18+ years** of experience in **backend development** and **distributed systems**  
-- 💡 Passionate about **scalable architectures**, **microservices**, and **cloud computing**  
-- 🏆 Active **open-source contributor** and **technical writer**  
-- ✍️ Writes about **finance & technology** at [Financial Freedom Journey](https://www.financialfreedomjourneys.com)  
-- 📫 **Email:** dibyendu.rakshit@gmail.com  
 
----
+- 🎯 **18+ years** of experience in **backend development** and **distributed systems**
+- 💡 Passionate about **scalable architectures**, **microservices**, and **cloud computing**
+- 🏆 Active **open-source contributor** and **technical writer**
+- ✍️ Writes about **finance & technology** at [Financial Freedom Journey](https://www.financialfreedomjourneys.com)
+- 📫 **Email:** dibyendu.rakshit@gmail.com
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Technology Stack
 
-### **Languages**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+### Languages & Frameworks
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Microservices-0769AD?style=for-the-badge&logo=apache&logoColor=white" alt="Microservices" />
+  <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API" />
+</p>
 
-### **Backend & Frameworks**
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-008000?style=flat)
-![Microservices](https://img.shields.io/badge/Microservices-blue?style=flat)
+### Databases & Storage
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="Elasticsearch" />
+</p>
 
-### **Databases**
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+### Cloud & DevOps
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="Kafka" />
+</p>
 
-### **Cloud & DevOps**
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+## 📊 GitHub Stats
 
-### **Big Data & Messaging**
-![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white)
-![Kibana](https://img.shields.io/badge/Kibana-005571?style=flat&logo=kibana&logoColor=white)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dibyendu83&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dibyendu83&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170" />
+</div>
 
-### **Tools & OS**
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dibyendu83&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
 
----
+## 🔥 Professional Experience
 
-## 🔥 GitHub Stats  
-
-<table>
-<tr>
-<td><img src="https://github-readme-stats.vercel.app/api?username=dibyendu83&show_icons=true&theme=github_dark" /></td>
-<td><img src="https://github-readme-streak-stats.herokuapp.com/?user=dibyendu83&theme=github-dark"/></td>
-</tr>
-</table>  
-
-📌 **Top Languages Used:**  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dibyendu83&layout=compact&theme=github_dark)  
-
----
+```
+- Backend Development    [██████████] 10/10
+- Cloud Computing        [████████▒▒] 8/10
+- System Design          [█████████▒] 9/10
+- Microservices          [█████████▒] 9/10
+- Technical Writing      [███████▒▒▒] 7/10
+```
 
 ## 🚀 Featured Projects
 
-### **1️⃣ [Note-Taking SaaS Application](https://jotedhq.com)**
-- **Tech Stack:** Spring Boot, Next.js, MongoDB, MySQL, Elasticsearch  
-- **Features:** Multi-device sync, voice-to-text, real-time collaboration  
-
-### **2️⃣ [Twitter-Like Social Media App](https://github.com/dibyendu83)**
-- **Tech Stack:** Spring Boot, Kafka, Redis, Elasticsearch  
-- **Features:** Real-time feed updates, media uploads, scalable architecture  
-
-### **3️⃣ [Expense Tracker & Budgeting App](https://github.com/dibyendu83)**
-- **Tech Stack:** Angular, Spring Boot, PostgreSQL  
-- **Features:** Expense analytics, budget tracking, goal-based savings  
-
----
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Note-Taking SaaS Application</h3>
+      <div align="center">
+        <a href="https://jotedhq.com" target="_blank">
+          <img src="https://img.shields.io/badge/View-Project-blue?style=for-the-badge&logo=appveyor" alt="View Project" />
+        </a>
+        <br><br>
+        <p>
+          <b>Tech Stack:</b> Spring Boot, Next.js, MongoDB, MySQL, Elasticsearch<br>
+          <b>Features:</b> Multi-device sync, voice-to-text, real-time collaboration
+        </p>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">Twitter-Like Social Media App</h3>
+      <div align="center">
+        <a href="https://github.com/dibyendu83" target="_blank">
+          <img src="https://img.shields.io/badge/View-Project-purple?style=for-the-badge&logo=appveyor" alt="View Project" />
+        </a>
+        <br><br>
+        <p>
+          <b>Tech Stack:</b> Spring Boot, Kafka, Redis, Elasticsearch<br>
+          <b>Features:</b> Real-time feed updates, media uploads, scalable architecture
+        </p>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Expense Tracker & Budgeting App</h3>
+      <div align="center">
+        <a href="https://github.com/dibyendu83" target="_blank">
+          <img src="https://img.shields.io/badge/View-Project-green?style=for-the-badge&logo=appveyor" alt="View Project" />
+        </a>
+        <br><br>
+        <p>
+          <b>Tech Stack:</b> Angular, Spring Boot, PostgreSQL<br>
+          <b>Features:</b> Expense analytics, budget tracking, goal-based savings
+        </p>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">Your Next Project?</h3>
+      <div align="center">
+        <a href="mailto:dibyendu.rakshit@gmail.com" target="_blank">
+          <img src="https://img.shields.io/badge/Contact-Me-orange?style=for-the-badge&logo=gmail" alt="Contact Me" />
+        </a>
+        <br><br>
+        <p>
+          Looking for collaboration or consulting?<br>
+          Let's work together on your next big idea!
+        </p>
+      </div>
+    </td>
+  </tr>
+</table>
 
 ## 📚 Latest Blog Posts
+
 <!-- BLOG-POST-LIST:START -->
 - [SWP vs. NPS: Which Retirement Income Plan is Right for You?](https://www.financialfreedomjourneys.com)
 - [How to Create and Stick to Your Budget](https://www.financialfreedomjourneys.com)
 - [How to Start Investing: A Beginner's Roadmap](https://www.financialfreedomjourneys.com)
 <!-- BLOG-POST-LIST:END -->
 
----
+## 📬 Connect With Me
 
-## 📬 Connect With Me  
-📧 **Email:** dibyendu.rakshit@gmail.com  
-🔗 **LinkedIn:** [Dibyendu Rakshit](https://linkedin.com/in/dibyendurakshit)  
-✍ **Blog:** [Financial Freedom Journey](https://www.financialfreedomjourneys.com)  
+<div align="center">
+  <a href="https://linkedin.com/in/dibyendurakshit" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://medium.com/@dibyendu.rakshit" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+  </a>
+  <a href="https://www.financialfreedomjourneys.com" target="_blank">
+    <img src="https://img.shields.io/badge/Blog-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Blog" />
+  </a>
+  <a href="mailto:dibyendu.rakshit@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
 
----
-
-⭐ **If you like my work, consider giving a star!** ⭐  
-
+<div align="center">
+  <br>
+  <p>⭐ <b>If you like my work, consider giving a star!</b> ⭐</p>
+  <img src="https://img.shields.io/badge/Happy-Coding!-ff69b4?style=for-the-badge" alt="Happy Coding" />
+</div>
